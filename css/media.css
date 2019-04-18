@@ -1,0 +1,28 @@
+.ci li {
+
+    bottom: 40px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: #fff;
+
+}
+.content button {
+
+    margin-bottom: 60px;
+
+}
+.content p {
+
+    font-size: 15px;
+    color: white;
+    margin: 20px 0;
+
+}
+.content h1 {
+
+    font-size: 21px;
+    color: white;
+    margin: 10px 0;
+
+}
